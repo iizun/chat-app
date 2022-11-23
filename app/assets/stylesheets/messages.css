@@ -12,7 +12,7 @@
 .header {
   height: 100px;
   width: 300px;
-  background-color: #2f3E51;
+  background-color: #253141;
   padding: 0px 20px;
   display: flex;
   justify-content: space-between;
@@ -82,7 +82,7 @@
   padding: 20px;
 }
 
-.chat_main {
+.messages {
   height: calc(100vh - 100px - 90px);
   background-color: #fafafa;
   padding: 46px 40px 0px;
